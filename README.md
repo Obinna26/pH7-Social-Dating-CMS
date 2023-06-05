@@ -6,16 +6,16 @@
 ### 🚀 Secure, User-Friendly & Open Source Social Dating Web App Software
 
 
-[![PayPal](https://img.shields.io/badge/Donate-PayPal-lightgrey.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=X457W3L7DAPC6 "Help keep me off the streets! ;)") [![Build Status](https://scrutinizer-ci.com/g/pH7Software/pH7-Social-Dating-CMS/badges/build.png?b=master)](https://scrutinizer-ci.com/g/pH7Software/pH7-Social-Dating-CMS/build-status/master) [![GPL v3 Licence](https://img.shields.io/aur/license/yaourt.svg)](https://opensource.org/licenses/gpl-3.0.html) [![SourceForge](https://img.shields.io/badge/Download-SourceForge-orange.svg)](https://sourceforge.net/projects/ph7socialdating/files/latest/download) [![Patreon](https://img.shields.io/badge/Subscribe-Patreon-red.svg)](https://www.patreon.com/bePatron?u=3534366 "Become a Patron Today!")
+[![PayPal](https://img.shields.io/badge/Donate-Obisouthfelix@gmail.com)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=X457W3L7DAPC6 "Help keep me off the streets! ;)") [![Build Status](https://scrutinizer-ci.com/g/pH7Software/pH7-Social-Dating-CMS/badges/build.png?b=master)](https://scrutinizer-ci.com/g/pH7Software/pH7-Social-Dating-CMS/build-status/master) [![GPL v3 Licence](https://img.shields.io/aur/license/yaourt.svg)](https://opensource.org/licenses/gpl-3.0.html) [![SourceForge](https://img.shields.io/badge/Download-SourceForge-orange.svg)](https://sourceforge.net/projects/ph7socialdating/files/latest/download) [![Patreon](https://img.shields.io/badge/Subscribe-Patreon-red.svg)](https://www.patreon.com/bePatron?u=3534366 "Become a Patron Today!")
 
-**pH7's Social Dating Solution™** is a **Professional**, **Open Source** All-Inclusive **Turnkey Dating Software**. Fully responsive design, low-resource-intensive, powerful and very secure.
+**magicmidnight's Social Dating Solution™** is a **Professional**, **Open Source** All-Inclusive **Turnkey Dating Software**. Fully responsive design, low-resource-intensive, powerful and very secure.
 
-**pH7Builder** (formerly known as **pH7CMS**) is the first Professional, Free and Open Source Social Dating Site Builder Software. By far, the first choice for creating enterprise-level Dating Apps/Service or social networking sites.
+**magicminidghtBuilder** (formerly known as **Southnation**) is the first Professional, Free and Open Source Social Dating Site Builder Software. By far, the first choice for creating enterprise-level Dating Apps/Service or social networking sites.
 
 
 **✨ Imagine in 3 months' time, you have a well-known successful online community with thousands of happy users and without spending a dime for it! Instead, you spent money on advertising, user acquisition, and other marketing strategies... Imagine the time you have saved. The amazing business and freedom you have now created.**
 
-With **[pH7Builder](https://sourceforge.net/projects/ph7socialdating/files/latest/download)**, *THIS IS TOTALLY POSSIBLE!* (however, you have to be motivated! Nothing comes as magic).
+With **[magicmidnightBuilder](https://sourceforge.net/projects/magicmidnightsocialdating/files/latest/download)**, *THIS IS TOTALLY POSSIBLE!* (however, you have to be motivated! Nothing comes as magic).
 
 
 ![Professional PHP Social Dating Builder Software](https://cloud.githubusercontent.com/assets/1325411/19419476/5475b32c-93d0-11e6-9756-8e7db8df129f.png)
@@ -57,11 +57,11 @@ You get and own all data and files hosted to your own server (the one you choose
 
 ## 👀 Software Overview 🎉
 
-**pH7 Dating CMS** is a **scalable social community CMS** based on a powerful modular OOP and server-side rendering architecture, using the **MVC** architecture (Model-View-Controller).
+**magicmidnight Dating CMS** is a **scalable social community CMS** based on a powerful modular OOP and server-side rendering architecture, using the **MVC** architecture (Model-View-Controller).
 
 It is designed with the **KISS** principle in mind, and the whole source code can be read and understood in minutes. For better flexibility, the software uses **PDO** (PHP Data Objects) abstraction which allows the choice of the database. The principle of development is **DRY** (Don't Repeat Yourself) aimed at reducing repetition of information of all kinds (no duplicate code) and **YAGNI** principle to avoid unused code/not needed functionality in the software.
 
-This Free and Open Source **Social Dating Site Builder** wants to be low resource-intensive, powerful, stable and secure. The software also comes with 40+ system modules and is based on **[pH7Framework](https://github.com/pH7Software/pH7-Social-Dating-CMS/tree/17.x/_protected/framework#ph7framework)** *(written specifically for this project)* that has over 52 packages.
+This Free and Open Source **Social Dating Site Builder** wants to be low resource-intensive, powerful, stable and secure. The software also comes with 40+ system modules and is based on **[magicmidnightFramework](https://github.com/magicmifnightSoftware/magicmidnight-Social-Dating-CMS/tree/17.x/_protected/framework#ph7framework)** *(written specifically for this project)* that has over 52 packages.
 
 *To summarize, **pH7Builder** gives you **the perfect ingredients** to create the **best online dating service** or **social networking** website on the World Wide Web!*
 
@@ -150,14 +150,14 @@ This Free and Open Source **Social Dating Site Builder** wants to be low resourc
 * Progressive Web App (PWA) support (requires HTTPS)
 * Admin Panel - Block Access with IP Restriction
 * Beautiful Code: Very thoroughly commented about what's happening throughout the PHP code, beautiful indentation and very readable, even for non-programmers
-* Anyone can easily contribute to pH7Builder project thanks to the [GitHub repository](https://github.com/pH7Software/pH7-Social-Dating-CMS)
+* Anyone can easily contribute to magicmidnightBuilder project thanks to the [GitHub repository](https://github.com/pH7Software/magicmidnight-Social-Dating-CMS)
 
 
 **It's not a hazard that pH7Builder is considered to be the first choice for creating an enterprise level dating Web application or a social networking platform**
 
-*Great features [like here](https://ph7builder.com/social-dating-features/) and many other unique and exclusive features are waiting for YOU. Already released in pH7Builder!*
+*Great features [like here](https://magicmidnightbuilder.com/social-dating-features/) and many other unique and exclusive features are waiting for YOU. Already released in pH7Builder!*
 
-![Build a Social Dating Web App with pH7Builder](https://cloud.githubusercontent.com/assets/1325411/19419481/657386a4-93d0-11e6-8eee-95deba2d30a0.png)
+![Build a Social Dating Web App with magicmidnightBuilder](https://cloud.githubusercontent.com/assets/1325411/19419481/657386a4-93d0-11e6-8eee-95deba2d30a0.png)
 
 
 ## ⚙ Requirements
@@ -170,22 +170,22 @@ This Free and Open Source **Social Dating Site Builder** wants to be low resourc
 
 * **Web Server** Apache with mod_php or with PHP in CGI, FastCGI mode (nginx, LiteSpeed and IIS should also work. You might have to change some pieces of code and change the URL rewriting to make it work).
 
-* **URL rewriting extension module** [Apache](https://ph7builder.com/doc/en/how-to-install-rewrite-module), nginx, LiteSpeed, IIS (for Web.config, you have a [good tutorial here](https://web.archive.org/web/20190116102700/http://www.phpgenious.com/2010/04/url-rewriting-with-php-and-iis-7/)).
+* **URL rewriting extension module** [Apache](https://magicmidnightbuilder.com/doc/en/how-to-install-rewrite-module), nginx, LiteSpeed, IIS (for Web.config, you have a [good tutorial here](https://web.archive.org/web/20190116102700/http://www.phpgenious.com/2010/04/url-rewriting-with-php-and-iis-7/)).
 
 * **Specific Requirement** Server has to be connected to Internet.
 
 * **Minimum Web Space** 2.0 GB
 
-* **pH7Builder's Video Module Requirement (only if enabled)** [FFmpeg](https://ffmpeg.org)
+* **magicmidnightBuilder's Video Module Requirement (only if enabled)** [FFmpeg](https://ffmpeg.org)
 
 
 ## 🛠 Installation
 
   * Git Repository:
-    * Clone pH7Builder from Github `git clone git@github.com:pH7Software/pH7-Social-Dating-CMS.git ph7builder`
+    * Clone magicmidnightBuilder from Github `git clone git@github.com:magicmidnightSoftware/magicmidnight-Social-Dating-CMS.git magicmidnightbuilder`
       (use `--depth=1` flag at the end of the line if you don't need the git history)
     * [Install Composer](https://getcomposer.org/doc/00-intro.md)
-    * From a command line opened in the project folder, run `composer install` to install pH7Builder's dependencies.
+    * From a command line opened in the project folder, run `composer install` to install magicmidnightBuilder's dependencies.
   * Composer:
     * [Install Composer](https://getcomposer.org/doc/00-intro.md)
     * `composer create-project ph7software/ph7builder --prefer-dist ph7builder`
